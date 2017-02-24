@@ -96,7 +96,7 @@ FTDI mode works with Atlas Scientific's FTDI based USB to Serial devices such as
 Run the sample code.
     
     cd ~/openag_atlas_ph_python
-    sudo python3 example.py
+    python3 example.py
     
 Output should be:
 ```
