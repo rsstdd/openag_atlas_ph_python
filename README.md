@@ -17,7 +17,7 @@ https://www.raspberrypi.org/documentation/configuration/raspi-config.md
 # Download sample code.
     
     cd ~
-    git clone https://github.com/AtlasScientific/Raspberry-Pi-sample-code.git
+    git clone https://github.com/OpenAgInitiative/openag_atlas_ph_python.git
 
 
 # FTDI MODE #
